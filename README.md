@@ -1,3 +1,7 @@
+## NOTE
+
+Was unable to upload the dataset as it was too huge. Please manually add the dataset from <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">here</a> [20Mb] to the same directory as the R script files should you wish to try them out on your system.
+
 ## Introduction
 
 This assignment uses data from
